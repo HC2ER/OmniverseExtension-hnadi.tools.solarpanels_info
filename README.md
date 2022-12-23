@@ -34,6 +34,7 @@ It Cannot Be Replaced or Renamed!
 
 ## Step2: Open the Extension and Change the Status of Solar Panels
 ![Extension Interface](https://github.com/HC2ER/OmniverseExtension_hnadi.tools.solarpanels_info/blob/master/docs/pics/INTERFACE.jpg)
+
 Launch the extension in OV.
 Manipulate the main control slider to see all the status of the solar panels.
 Change the Type, Month, or Hour widgets to see the specific status of the solar panels.
