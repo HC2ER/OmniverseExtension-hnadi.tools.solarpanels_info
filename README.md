@@ -5,8 +5,8 @@ Additionally, it shows a possibility and develops a workflow to build digital tw
 
 # Adding This Extension
 ## Adding this Individual Extension 
-![Folders](pics\ADD1.png)
-![Folders](pics\ADD2.png)
+![Folders](https://github.com/HC2ER/OmniverseExtension_hnadi.tools.solarpanels_info/blob/master/docs/pics/ADD1.png)
+![Folders](https://github.com/HC2ER/OmniverseExtension_hnadi.tools.solarpanels_info/blob/master/docs/pics/ADD2.png)
 1. Download the package.
 2. Go into the local address where you install Omniverse apps (code or create).
 3. Drag the whole folder into the "extscache" folder where other extensions are installed.
@@ -26,14 +26,14 @@ Welcome to download and try!
 
 # Using This Extension
 ## Step1: Open the Required Input USD File in OV
-![MeshSimExporter](pics\FORMAT1.png)
-![Required Input USD File](pics\FORMAT2.jpg)
+![MeshSimExporter](https://github.com/HC2ER/OmniverseExtension_hnadi.tools.solarpanels_info/blob/master/docs/pics/FORMAT1.png)
+![Required Input USD File](https://github.com/HC2ER/OmniverseExtension_hnadi.tools.solarpanels_info/blob/master/docs/pics/FORMAT2.jpg)
 The input USD file is completely packaged in GH with GH-OV Connectors MeshSimExporter and has a special designed format. 
 It Cannot Be Replaced or Renamed!
 * The Input USD File is in data/Model/SolarPanelsModel.usdc
 
 ## Step2: Open the Extension and Change the Status of Solar Panels
-![Extension Interface](pics\INTERFACE.jpg)
+![Extension Interface](https://github.com/HC2ER/OmniverseExtension_hnadi.tools.solarpanels_info/blob/master/docs/pics/INTERFACE.jpg)
 Launch the extension in OV.
 Manipulate the main control slider to see all the status of the solar panels.
 Change the Type, Month, or Hour widgets to see the specific status of the solar panels.
